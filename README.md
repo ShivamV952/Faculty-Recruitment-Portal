@@ -29,16 +29,6 @@ What is also an addition is the extremely easy to traverse interface.
 
 Before Running the project locally be sure you have already insalled nodejs and mongodb. if not download it from official website of [Nodejs](https://nodejs.org/en/) | [MongoDB](https://cloud.mongodb.com/v2/62318012bb235a78d54070af#clusters)
 
-
-
-
-## Authors
-
-* [deep](https://github.com/deep-69bits)
-* [Shweta](https://github.com/shwet-aaa)
-* [Annu Priya](https://github.com/annupriy)
-* [Sanskriti](https://github.com/sanskritu)
-
 ## License 
 
 Unissued
